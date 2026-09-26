@@ -18,7 +18,7 @@ Lists and Strings
 Functions
 Random Module
 User Input and Output
- ▶️ How to Run
+▶️ How to Run
 Clone this repository or download the project.
 Open the notebook using Google Colab or Jupyter Notebook.
 Run all the cells in order.
